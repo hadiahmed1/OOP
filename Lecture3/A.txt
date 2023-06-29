@@ -1,0 +1,6 @@
+Principles of OOP:
+1. Inheritence:
+    Chil class is Inheriting properties from base class
+2. Polymorphism:
+3. Encapsulation:
+4. Abstraction:

@@ -1,0 +1,5 @@
+Encapsulation: Wrapping up the implimentation of the data member and method in a class
+
+Abstraction: Hiding unnecessary details. Only showing valuable information
+            ->Internal mechanism is hidden
+

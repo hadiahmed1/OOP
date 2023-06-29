@@ -1,0 +1,5 @@
+Polymorphism:
+
+1.Compile time/Static: Achived via method overloading, e.g multiple Constructor
+                       Java detrmines which constructor to be called at compile time
+2. Runtime/Dynamic: Achived by method overridding.

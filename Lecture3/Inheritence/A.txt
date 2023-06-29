@@ -1,0 +1,11 @@
+Type of Inheritence:
+1. Single: e.g, P->Ch
+2. Multi-Level: e.g, GP->P->Ch    Box->BoxWeight->BoxPrice
+3. Multiple(X): One class extending to multiple classes.
+                One Child <- Multiple Parents
+                NOT ALLOWED IN JAVA because Ambiguity.
+4. Hierarchial: One class is inherited by many classes
+                One Parent -> Multiple Child
+5. Hybrid Inheritence: Combination of Single & Multiple Inheritence.
+                       NOT ALLOWED IN JAVA
+Can Impliment 3&5 using Interfaces 

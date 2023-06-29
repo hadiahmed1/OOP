@@ -1,0 +1,19 @@
+Acess Control:
+
+            class   package     subClass    subClass    world  
+                                (same pkg)  (diff pkg)
+public        +         +           +         +           +  ->everywhere
+protected     +         +           +         +   ->only for subClass
+default       +         +           +  ->cant use outside package
+private       +  -> sensitive data
+
+
+Inbuilt Packages:
+lang: imported automaticly. essential stuff. Object class
+io: buffred reader
+util: DS & collectiioon framework
+applet:
+awt: GUI
+net:
+
+Object Class
