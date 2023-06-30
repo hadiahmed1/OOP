@@ -1,0 +1,7 @@
+Abstraction
+Abstract methods have no implimentation and hence must be overriden
+
+Intrface: ->diffrent than class
+            ->contain Abstract function
+            ->variables are static and final by default
+            ->use impliment keyword
