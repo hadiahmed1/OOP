@@ -1,7 +1,4 @@
 package Lecture6.ObjectCloning;
-
-import javax.security.auth.callback.TextInputCallback;
-
 public class Human implements Cloneable{
     int age;
     String name;
